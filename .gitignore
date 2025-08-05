@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+
+# MATLAB
+*.asv
+*.fig
+*.mat
+*.mlx
+*.mlappinstall
+
+# System
+.DS_Store
+Thumbs.db
+
